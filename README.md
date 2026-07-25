@@ -36,9 +36,7 @@
 
 ---
 
-### 🎵 Listening to Spotify
+### 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify?user=YOUR_SPOTIFY_USER_ID" alt="Spotify Currently Playing" />
-  </a>
+  <img src="https://lanyard.cnrad.dev/api/543607316457717771?theme=dark&bg=1a1b26&showSpotify=true" alt="Spotify Status" />
 </p>
