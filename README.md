@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RobertDace/count.svg" alt="Visitor Count" />
+</p>
+
 ---
 
 ### 🕹️ Pac-Man Contribution Graph
@@ -14,6 +18,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertDace/RobertDace/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RobertDace/RobertDace/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RobertDace&theme=onedark&column=4&margin-w=15&margin-h=15" alt="RobertDace Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -30,13 +43,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertDace&show_icons=true&theme=tokyonight&hide_border=true" alt="RobertDace Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertDace&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertDace&theme=tokyonight&hide_border=true" alt="RobertDace Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertDace&theme=tokyonight" alt="GitHub Profile Summary" width="48%" />
 </p>
 
 ---
 
-### 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/543607316457717771?theme=dark&bg=1a1b26&showSpotify=true" alt="Spotify Status" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </p>
