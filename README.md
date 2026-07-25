@@ -32,10 +32,33 @@
 
 ---
 
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🌐 [**SenKuni**](https://senkuni.vercel.app/) | Platform aplikasi web interaktif untuk efisiensi manajemen data dan layanan online. | `Next.js` `Supabase` `Tailwind` |
+| ⚡ [**SheTI**](https://she-ti.vercel.app/) | Portal sistem informasi berbasis web yang responsif dan modern. | `React` `TypeScript` `Tailwind` |
+| 📚 [**SemarMaca**](https://semar-maca.vercel.app/) | Platform literasi digital dan media membaca interaktif berbasis web. | `Next.js` `React` `Tailwind` |
+---
+
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertDace&theme=tokyonight&hide_border=true" alt="RobertDace Streak" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertDace&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="center">
+  <a href="mailto:alfiantu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/alfian-robit-nadifi-masyhudi-99470a172">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
